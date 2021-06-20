@@ -14,5 +14,5 @@ __Here's my profile on github.com:__
 
 | Page Name        | LINK       |
 | ------------- |:-------------:|
-| Readings: Introduction to React and Components      | [class-01](https://github.com/yazanbaker94/Code-301---Intermediate-Software-Development/class-01)|
+| Readings: Introduction to React and Components      | [class-01](https://github.com/yazanbaker94/Code-301---Intermediate-Software-Development/blob/main/class-01)|
 
