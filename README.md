@@ -21,3 +21,4 @@ __Here's my profile on github.com:__
 | 5.Readings: ''    | [class-04](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-05)|
 | 6.Readings: ''    | [class-04](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-06)|
 | 7.Readings: REST   | [class-07](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-07)|
+| 8.Readings: APIs   | [class-08](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-08)|
