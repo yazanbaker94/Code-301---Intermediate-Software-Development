@@ -18,7 +18,7 @@ __Here's my profile on github.com:__
 | 2. Readings: State and Props      | [class-02](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-02)|
 | 3.React Docs - lists and keys    | [class-03](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-03)|
 | 4.Readings: React and Forms    | [class-04](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-04)|
-| 5.Readings: ''    | [class-04](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-05)|
-| 6.Readings: ''    | [class-04](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-06)|
+| 5.Readings: ''    | [class-05](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-05)|
+| 6.Readings: ''    | [class-06](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-06)|
 | 7.Readings: REST   | [class-07](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-07)|
 | 8.Readings: APIs   | [class-08](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-08)|
