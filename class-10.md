@@ -53,3 +53,6 @@ Like the name indicates, this types of errors show up when the types (number, st
 14.  What does the word ‘debugger’ do in your code?
 
 The breakpoint can also be achieved by putting a debugger statement in your code in the line you want to break.
+
+
+## Things I want to know more about
