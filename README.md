@@ -24,4 +24,5 @@ __Here's my profile on github.com:__
 | 8.Readings: APIs   | [class-08](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-08)|
 | 9.Readings: FUNCTIONAL PROGRAMMING   | [class-09](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-09)|
 | 10.Readings: FUNCTIONAL PROGRAMMING   | [class-10](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-10)|
-
+| 11.Readings: Readings: Authentication  | [class-11](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-11)|
+| 12.Readings: FUNCTIONAL PROGRAMMING   | [class-12](https://yazanbaker94.github.io/Code-301---Intermediate-Software-Development/class-12)|
